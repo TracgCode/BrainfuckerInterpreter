@@ -1,0 +1,4 @@
+#!/bin/sh
+clang main.c
+./a.out
+
